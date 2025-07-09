@@ -1,0 +1,6 @@
+{
+  "name": "Gym Tracker Pro",
+  "description": "An application to register your daily gym routines and metrics. Track your exercises, sets, reps, and feelings for each set. Includes a stopwatch for rest times and allows exporting your progress to Excel.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
